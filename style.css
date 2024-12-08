@@ -1,0 +1,46 @@
+header h1{
+    background-color: #EF9D35;
+    height:30px;
+    padding: 25px;
+    text-align: center;
+    
+    margin: 10px;
+    border: 20px;
+    border-radius: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: #EBE4B9;
+    padding: 10px;
+    margin: 15px;
+    border: 20px;
+    border-radius: 20px;
+    color: black;
+}
+
+nav{
+    background-color: #00731B;
+    text-align: center;
+}
+header p{
+    font-size: 36px;
+}
+
+main p{
+    background-color: #E9D582;
+}
+
+
+body{
+    background-color: #A9E9A3;
+}
+
+p{
+    padding: 5px;
+    border-radius: 3px;
+}
+
+footer p{
+    background-color: #094D07;
+}
